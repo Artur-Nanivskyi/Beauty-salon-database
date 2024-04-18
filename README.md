@@ -66,4 +66,15 @@ This practical assignment focuses on SQL subqueries and set operations. It inclu
 - NOT IN with correlated subquery result
 - EXISTS with correlated subquery result
 - NOT EXISTS with correlated subquery result
+  
 **SELECT queries that include the clause UNION / UNION ALL / INTERSECT / EXCEPT**
+
+<a name="practical-assignment4"></a>
+### Practical assignment 4
+
+This assignment focuses on demonstrating proficiency in working with stored procedures and implementing transactional mechanisms in SQL. The assignment comprises the following components:
+
+1. **procedures_pa4.sql**:
+- This file contains SQL scripts for implementing stored procedures. It includes examples showcasing how to work with various parameter types such as IN, OUT, and INOUT.
+2. **executions_pa4.sql**:
+- This file includes SQL scripts demonstrating the execution of stored procedures and the transactional mechanism. Each script is accompanied by readable comments explaining the purpose of the script and the expected result.
