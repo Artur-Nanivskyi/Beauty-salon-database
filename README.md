@@ -1,5 +1,13 @@
 # Beauty salon database
 
+
+## General Information
+- Welcome to my repo!
+- This schema provides a basic structure to manage the essential aspects of a beauty salon's operations. It allows for the tracking of services, products, customers, appointments, payments, and employees. You can further expand and customize this schema based on specific requirements and additional features of your salon management system.
+<img width="617" alt="Знімок екрана 2024-04-18 о 16 55 35" src="https://github.com/Artur-Nanivskyi/Beauty-salon-database/assets/148461779/9a198dc6-c3da-426f-b7e8-de8a305828d5">
+
+<a name="practical-assignment1"></a>
+
 ### Table of content
 [1.Practical assignment 1](#practical-assignment1)
 
@@ -11,12 +19,7 @@
 
 [5.Practical assignment 5](#practical-assignment5)
 
-## General Information
-- Welcome to my repo!
-- This schema provides a basic structure to manage the essential aspects of a beauty salon's operations. It allows for the tracking of services, products, customers, appointments, payments, and employees. You can further expand and customize this schema based on specific requirements and additional features of your salon management system.
-<img width="617" alt="Знімок екрана 2024-04-18 о 16 55 35" src="https://github.com/Artur-Nanivskyi/Beauty-salon-database/assets/148461779/9a198dc6-c3da-426f-b7e8-de8a305828d5">
 
-<a name="practical-assignment1"></a>
 ### Practical assignment 1 
 This assigment contains schema with following tables!
 
@@ -42,10 +45,10 @@ This assigment contains schema with following tables!
 ## Practical assignment 2
 This assignment contains schema with following tables!
 
-7. **Services_Products Table**:
+1. **Services_Products Table**:
    - Establishes a many-to-many relationship between services and products, indicating which products are associated with each service.
 
-8. **Employees_Services Table**:
+2. **Employees_Services Table**:
    - Establishes a many-to-many relationship between employees and services, indicating which services each employee can provide.
   
 
