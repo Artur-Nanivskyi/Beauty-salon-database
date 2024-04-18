@@ -78,3 +78,17 @@ This assignment focuses on demonstrating proficiency in working with stored proc
 - This file contains SQL scripts for implementing stored procedures. It includes examples showcasing how to work with various parameter types such as IN, OUT, and INOUT.
 2. **executions_pa4.sql**:
 - This file includes SQL scripts demonstrating the execution of stored procedures and the transactional mechanism. Each script is accompanied by readable comments explaining the purpose of the script and the expected result.
+
+<a name="practical-assignment5"></a>
+### Practical assignment 5
+
+
+1. **Employee Daily Schedule View**:
+
+This view presents the daily schedule for each employee, automatically identifying the current day for real-time updates. The schedule includes:
+
+- Employee Name
+- Services Provided (comma-separated)
+- Time Slot (start time to end time)
+- Service Type
+- The ordering of the schedule prioritizes employees based on their position or performance over the last month. The view enhances scheduling efficiency and service organization.
