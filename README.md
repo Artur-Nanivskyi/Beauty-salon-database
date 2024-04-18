@@ -19,6 +19,7 @@
 <a name="practical-assignment1"></a>
 ### Practical assignment 1 
 This assigment contains schema with following tables!
+
 1. **Services Table**:
    - Stores information about the services offered by the salon, including name, description, duration, and price.
 
@@ -40,6 +41,7 @@ This assigment contains schema with following tables!
 <a name="practical-assignment2"></a>
 ## Practical assignment 2
 This assignment contains schema with following tables!
+
 7. **Services_Products Table**:
    - Establishes a many-to-many relationship between services and products, indicating which products are associated with each service.
 
