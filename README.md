@@ -47,3 +47,23 @@ This assignment contains schema with following tables!
 
 8. **Employees_Services Table**:
    - Establishes a many-to-many relationship between employees and services, indicating which services each employee can provide.
+  
+
+<a name="practical-assignment3"></a>
+### Practical Assignment 3
+
+This practical assignment focuses on SQL subqueries and set operations. It includes the following tasks:
+
+1. **Queries for clauses with non-correlated subquery results**:
+- = with non-correlated subquery result
+- IN with non-correlated subquery result
+- NOT IN with non-correlated subquery result
+- EXISTS with non-correlated subquery result
+- NOT EXISTS with non-correlated subquery result
+2. **Queries for clauses with correlated subquery results**:
+- = with correlated subquery result
+- IN with correlated subquery result
+- NOT IN with correlated subquery result
+- EXISTS with correlated subquery result
+- NOT EXISTS with correlated subquery result
+**SELECT queries that include the clause UNION / UNION ALL / INTERSECT / EXCEPT**
