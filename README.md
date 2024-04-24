@@ -8,6 +8,10 @@
 
 <a name="practical-assignment1"></a>
 
+### How to use this database
+You can use this repo in order to administrate your beauty salon or another businnes. You have question: how to set up it in your computer. I will answear it. So in file "schema_pa1" you can see all tables with information about apointments, servises, emploees, products. In order to use it you need just copy and paste it in your program and it will work. You can add or delete tables wich you need. In other files are located different examples of work with that database. For example: stored procedures, views, subqueries, transaction. It show how you can work with that. 
+
+
 ### Table of content
 [1.Practical assignment 1](#practical-assignment1)
 
@@ -95,3 +99,7 @@ This view presents the daily schedule for each employee, automatically identifyi
 - Time Slot (start time to end time)
 - Service Type
 - The ordering of the schedule prioritizes employees based on their position or performance over the last month. The view enhances scheduling efficiency and service organization.
+
+
+### Information about me
+I am Artur Nanivskyi -- a student in Kyiv School of Economics. I study IT and business analys. This repo is my all assignments from databases fundamental course. So I will happy that this database will usefull for you.
